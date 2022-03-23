@@ -1,0 +1,70 @@
+
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #9c958e;
+}
+header {
+    position: fixed;
+    top:0;
+    z-index: 2;
+    width: 95%;
+    height: 75px;
+    padding: 50px;
+    background-color: #625f5e;
+    color: #e5c5ad;
+    border: 20px solid #625f5e;
+}
+
+
+a {
+    text-decoration: none;
+    color: #e5c5ad;
+    display:inline-block;
+
+}
+
+li {
+display: inline;
+  padding: 30px;
+  text-decoration: none;
+}
+
+.selector-right {
+    text-align: right; 
+    color: #e5c5ad;
+    display: inline;
+    text-decoration: none;
+    
+}
+
+img {
+  padding: 20px;
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+.Kylie-bio, #contact-info {
+    border:solid #625f5e;
+    border-radius: 1em;
+    padding: 10px;
+    margin: 30px;
+    background-color:#625f5e;
+    color: #e5c5ad;  
+
+}
+
+#button {
+    color: #e5c5ad;
+    background-color: #352e27;
+    border-radius: 1em;
+}
+
+#form, h2, h3, footer {
+    text-align: center;
+
+}
+
+
+
